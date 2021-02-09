@@ -7,7 +7,7 @@
  * Time: 10:33 PM
  */
  
-class Circle extends Shapes
+class Circle extends Shape
 {
     const SHAPE_TYPE = 3;
     protected $radius = "";

@@ -7,7 +7,7 @@
  * Time: 10:16 PM
  */
  
-  class Rectangle extends Shapes
+  class Rectangle extends Shape
   {
      const SHAPE_TYPE = 2;
 

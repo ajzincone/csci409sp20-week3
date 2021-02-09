@@ -7,13 +7,13 @@
  * Time: 8:07 PM
  */
  
-  class Shapes
+  class Shape
   {
       const SHAPE_TYPE = 1;
       public $name = "";
       protected $length = "";
       protected $width = "";
-      private $id = "";
+      protected $id = "";
 
       function __construct($length, $width)
       {
